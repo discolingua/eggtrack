@@ -48,6 +48,15 @@ h1 {
 
 }
 
+.basketBox {
+    background-image: url('img/basket.png');
+    background-size: 150px 150px;
+}
+
+.eggBox {
+    background-image: url('img/egg.png');
+    background-size: 150px 150px;
+}
 
 .drag-over {
     border: dashed 3px red;
@@ -56,7 +65,8 @@ h1 {
 .item {
     height: 75px;
     width: 75px;
-    background-color: #F0DB4F;
+    background-image: url('img/drag-egg.png');
+    background-size: 75px;
 
 }
 

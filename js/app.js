@@ -1,4 +1,4 @@
-const item=document.querySelector('.item');
+const item = document.querySelector('.item');
 const boxes = document.querySelectorAll('.box');
 
 boxes.forEach(box => {
